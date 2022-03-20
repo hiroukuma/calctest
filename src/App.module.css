@@ -1,0 +1,23 @@
+.number {
+  font: bold 60px arial;
+  height: 60px;
+  width: 250px;
+  text-align: right;
+  vertical-align: center;
+  background-color: lightgreen;
+}
+
+.sign {
+  font: bold 60px arial;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  vertical-align: center;
+  background-color: blue;
+  float: left;
+}
+
+.body {
+  text-align: center;
+  background-color: red;
+}
